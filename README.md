@@ -15,12 +15,6 @@
 
 
 
-
->I am raising Border Collie.
-
-![My puppy](https://user-images.githubusercontent.com/103508921/173604887-b6032065-a423-4608-9995-1c8d3ea91c61.jpg)
-
-
 ---
 
 
