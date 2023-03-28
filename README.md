@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
 
