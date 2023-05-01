@@ -2,9 +2,7 @@
 ---
 ### **Hi There~👋**</h1>
 
-* I'm studying various things such as Networking, Languages...
-* Somehow are you interested or wondering about some mathmematics or medical knowledge.
-* Ask me~!
+
 #### Contact
 - 💬 Ask me anything you wonder.
 
