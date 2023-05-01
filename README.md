@@ -34,19 +34,14 @@
 <img src="https://img.shields.io/badge/Kali-557C94?style=flat&logo=KaliLinux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-3766AB?style=flat-square&logo=Csharp&logoColor=white"/></a>
 
 
 
 
 #### Studying
-<img src="https://img.shields.io/badge/C%23-3766AB?style=flat-square&logo=Csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 
 
-
-
-#### sub skills
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>
 
