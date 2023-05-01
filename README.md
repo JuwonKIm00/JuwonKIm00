@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%23-3766AB?style=flat-square&logo=Csharp&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 
 
